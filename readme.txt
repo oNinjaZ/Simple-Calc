@@ -1,0 +1,1 @@
+first JavaFX mini-project just for learning purposes
